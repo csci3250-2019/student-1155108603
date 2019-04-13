@@ -21,3 +21,8 @@ I am a new programmer. I am also new to GitHub.
 - [ ] learn Python 
 - [ ] learn command line 
 - [ ] graduate from CUHK 
+
+**Screenshots** 
+![Screenshot](screenshot_1.JPG)
+![Screenshot](screenshot_2.JPG)
+![Screenshot](screenshot_3.JPG)
